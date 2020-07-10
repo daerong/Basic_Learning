@@ -24,5 +24,5 @@
 - Examples  
 
 ### Graph 
-- [Description](https://github.com/daerong/Basic_Learning/blob/master/Data_Structur/Graph.md)  
+- [Description](https://github.com/daerong/Basic_Learning/blob/master/Data_Structure/Graph.md)  
 - Examples  
