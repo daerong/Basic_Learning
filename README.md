@@ -1,5 +1,5 @@
 # Basic Learning  
 
 ## Contents  
-- [Algorithm](/algorithm)  
-- [Data Structure](/data-structure)  
+- [Algorithm](https://github.com/daerong/Basic_Learning/tree/master/Algorithm)  
+- [Data Structure](https://github.com/daerong/Basic_Learning/tree/master/Data_Structure)  

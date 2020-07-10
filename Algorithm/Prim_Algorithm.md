@@ -50,9 +50,6 @@ Kruskal Algorithm과 같은 MST(Minimal Spanning Tree)를 만들기 위한 방법이다.
 >우선순위 큐(priority queue) 연산을 위한 자료 구조로, 힙-정렬된 트리를 모아놓은 자료 구조이다.  
 >힙이 결합하는 과정이 피보나치 수열과 유사하여 피보나치 힙으로 불린다. 
 
-예제  
-[SW Expert Acdemy 3124번 : 최소 스패닝 트리](https://github.com/daerong/Algorithm_Practice/blob/master/swea/Daeseong/swea_3124_U.cpp)  
-
 참고문서  
 [https://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%BC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%BC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)  
 [https://m.blog.naver.com/PostView.nhn?blogId=kimmy5000&logNo=220635475967&proxyReferer=https:%2F%2Fwww.google.com%2F](https://m.blog.naver.com/PostView.nhn?blogId=kimmy5000&logNo=220635475967&proxyReferer=https:%2F%2Fwww.google.com%2F)  

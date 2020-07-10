@@ -39,9 +39,6 @@ Spanning Tree의 합을 최소로 하는 MST(Minimal Spanning Tree)를 만들기 위한 방법이
 	- Edge 정렬 : O(Elog E)
 	- Union-FInd : O(Elog N)
 	-  O(Nlog N + Elog N) = O(Elog N)
-
-예제  
-[SW Expert Acdemy 1251번 : 하나로](https://github.com/daerong/Algorithm_Practice/blob/master/swea/Daeseong/swea_1251_U.cpp)  
 	
 참고문서  
 [https://ko.wikipedia.org/wiki/%ED%81%AC%EB%9F%AC%EC%8A%A4%EC%BB%AC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98](https://ko.wikipedia.org/wiki/%ED%81%AC%EB%9F%AC%EC%8A%A4%EC%BB%AC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)  

@@ -26,10 +26,6 @@
 **동적계획법 대표문제**  
 - Fibonacci
 
-예제  
-[Programmers 42898번 : 등굣길](https://github.com/daerong/Algorithm_Practice/blob/master/programmers/Daeseong/programmers_42898_U.cpp)  
-[Programmers 42895번 : N으로 표현](https://github.com/daerong/Algorithm_Practice/blob/master/programmers/Daeseong/programmers_42895_U.cpp)  
-
 참고문서   
 [https://meteorbin.tistory.com/7](https://meteorbin.tistory.com/7)  
 [https://velog.io/@polynomeer/%EB%8F%99%EC%A0%81-%EA%B3%84%ED%9A%8D%EB%B2%95Dynamic-Programming](https://velog.io/@polynomeer/%EB%8F%99%EC%A0%81-%EA%B3%84%ED%9A%8D%EB%B2%95Dynamic-Programming)  
